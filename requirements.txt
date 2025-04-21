@@ -11,3 +11,7 @@ Shapely
 pyclipper
 ninja
 deep-translator
+gtts
+streamlit
+easyocr
+
